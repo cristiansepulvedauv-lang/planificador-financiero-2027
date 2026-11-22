@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cristiansepulvedauv-lang.github.io/planificador-financiero-2027/sitemap.xml
